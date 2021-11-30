@@ -1,2 +1,2 @@
 # PhotosRepository
-Random repository for hostic photos used in projects.
+Random repository for hosting photos used in projects.
